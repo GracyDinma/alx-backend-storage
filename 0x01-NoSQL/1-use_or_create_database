@@ -1,0 +1,7 @@
+// use or create database
+
+// switch to the database
+use my_db;
+
+// Print confirmation
+print("switched to db my_db");
